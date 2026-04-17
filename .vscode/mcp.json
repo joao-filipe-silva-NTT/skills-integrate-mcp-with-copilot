@@ -1,0 +1,8 @@
+{
+    "servers":{
+        "mcp-server-time": {
+            "type": "http",
+            "url": "https://api.githubcopilot.com/mcp/"
+        }
+    }
+}
